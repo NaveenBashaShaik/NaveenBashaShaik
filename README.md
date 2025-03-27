@@ -13,15 +13,6 @@
 <br><br>
 
 # ⚡ Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasukumar3&show_icons=true&locale=en" alt="Vasukumar3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasukumar3&show_icons=true&locale=en" alt="NaveenBashaShaik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasukumar3&" alt="Vasukumar3" /></p>
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Vasu_kumar3)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=@Vasukumar3&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasukumar3&" alt="NaveenBashaShaik" /></p>
