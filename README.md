@@ -13,6 +13,6 @@
 <br><br>
 
 # ⚡ Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasukumar3&show_icons=true&locale=en" alt="NaveenBashaShaik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NaveenBashaShaik&show_icons=true&locale=en" alt="NaveenBashaShaik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasukumar3&" alt="NaveenBashaShaik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenBashaShaik&" alt="NaveenBashaShaik" /></p>
