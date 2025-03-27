@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on ... a freelance Python Trainer at Pythonlife <br>- 🌱 I’m currently learning ... Typescript. <br>- 👯  I’ve successfully trained 1000+ students in Python programming, covering everything from basics to advanced concepts. I specialize in providing study materials, hands-on tasks, and interview preparation resources to ensure effective and practical learning..<br>- 💬 Ask me about ...Python programming: Basics to advanced concepts.
+- 🔭 Python is a general-purpose programming language that’s powerful yet easy to read, making it a great first language to learn. From web development to machine learning to data science — Python can do it all.I’m currently working on ... a freelance Python Trainer at Pythonlife <br>- 🌱 I’m currently learning ... Typescript. <br>- 👯  I’ve successfully trained 1000+ students in Python programming, covering everything from basics to advanced concepts. I specialize in providing study materials, hands-on tasks, and interview preparation resources to ensure effective and practical learning..<br>- 💬 Ask me about ...Python programming: Basics to advanced concepts.
 Tips and strategies for mastering Python.
 Practical approaches to task-based learning in programming.
 How to effectively prepare for Python programming interviews.
